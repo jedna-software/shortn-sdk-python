@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0
+## 0.1.0 - 2026-11-22
 
 First release. Requires Python 3.10 or newer; no runtime dependencies.
 
